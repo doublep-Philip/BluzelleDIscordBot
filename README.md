@@ -38,6 +38,7 @@ This bot aims to use as an existing communication channel of one of the applicat
 
 # Video 
 
+https://youtu.be/nKfYYl3PEGQ
 
 
 
