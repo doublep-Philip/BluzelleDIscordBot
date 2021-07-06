@@ -75,7 +75,8 @@ https://youtu.be/nKfYYl3PEGQ
 | ![](https://i.imgur.com/ABSGWXT.png) |
 
 
-
+# Clone and rename
+Clone the repo and rename env.example to .env
 # Build & Run 
 ```
 npm install
